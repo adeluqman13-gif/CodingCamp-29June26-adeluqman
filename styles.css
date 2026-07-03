@@ -996,3 +996,14 @@ body.dark-mode .theme-btn{
     color:white;
 
 }
+/* ===========================
+   DARK MODE - TASK TEXT
+=========================== */
+
+body.dark-mode .task-item .task-text{
+    color:#f9fafb !important;
+}
+
+body.dark-mode .task-item.completed .task-text{
+    color:#9ca3af !important;
+}
